@@ -4,4 +4,7 @@
 /.env.local 
 /.env.development.local
 /.env.test.local
-/.env.production.local 
+/.env.production.local
+# Ignore all CSV files in the csv_files directory
+csv_files/*.csv
+
